@@ -1,0 +1,7 @@
+<div id="ihrAffiliatesMapContainer"></div>
+<script src="//htl.radioedit.iheart.com/static/stations/map.js"></script>
+<script>
+ihrAffiliatesMap.initAffiliatesMap({
+show_name: 'rich-on-tech',
+});
+</script>
